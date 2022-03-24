@@ -1,3 +1,5 @@
+// This is Morgana's edit to this script
+
 #define redLED 6
 #define pointLED 9
 int temp = LOW;
