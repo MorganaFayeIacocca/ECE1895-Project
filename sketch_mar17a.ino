@@ -14,7 +14,7 @@ void loop() {
     digitalWrite(redLED, HIGH); // sets the digital pin 14 on
     delay(65);            // waits for a second
     digitalWrite(redLED, LOW);  // sets the digital pin 14 off
-    delay(65;  
+    delay(65);  
                 // waits for a second
   }
   else ( temp == LOW);
