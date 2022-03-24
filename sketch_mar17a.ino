@@ -1,9 +1,9 @@
-#define redLED 8
+#define redLED 6
 #define pointLED 9
 int temp = LOW;
 
 void setup() {
-  pinMode(redLED, OUTPUT);    // sets the digital pin 14 as output
+  pinMode(redLED, OUTPUT);    // sets the digital pin 6 as output
   pinMode(pointLED, INPUT);     //sets the digital pin 15 as input
 }
 
